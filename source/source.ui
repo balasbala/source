@@ -646,13 +646,13 @@
     <string>D</string>
    </property>
   </widget>
-  <widget class="QLabel" name="label_">
+  <widget class="QLabel" name="label_RED">
    <property name="geometry">
     <rect>
      <x>50</x>
      <y>40</y>
-     <width>47</width>
-     <height>13</height>
+     <width>31</width>
+     <height>16</height>
     </rect>
    </property>
    <property name="font">
@@ -666,7 +666,7 @@
     <string>RED</string>
    </property>
   </widget>
-  <widget class="QLabel" name="label_1">
+  <widget class="QLabel" name="label_GREEN">
    <property name="geometry">
     <rect>
      <x>50</x>
@@ -686,12 +686,12 @@
     <string>GREEN</string>
    </property>
   </widget>
-  <widget class="QLabel" name="label_2">
+  <widget class="QLabel" name="label_BLUE">
    <property name="geometry">
     <rect>
      <x>50</x>
      <y>160</y>
-     <width>47</width>
+     <width>41</width>
      <height>16</height>
     </rect>
    </property>
